@@ -6,9 +6,9 @@
  .siteAlert {
     position: relative;
     display: block;
-    padding: 1.3em 20px 1.3em 20px;
+    padding: 0.5em 12px 0.5em 12px;
     color: #000000;
-    line-height: 1.9em;
-    margin-bottom: 10px;
+    line-height: 1;
+    margin-bottom: 5px;
     text-shadow: none;
 }
