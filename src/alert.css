@@ -4,11 +4,11 @@
  }
  
  .siteAlert {
-     position: relative;
-     display: block;
-     padding: 1.3em 20px 1.3em 20px;
-     #color: #fff;
-     line-height: 1.3em;
-     margin-bottom: 10px;
-     text-shadow: none;
- }
+    position: relative;
+    display: block;
+    padding: 1.3em 20px 1.3em 20px;
+    color: #000000;
+    line-height: 1.9em;
+    margin-bottom: 10px;
+    text-shadow: none;
+}
