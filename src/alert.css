@@ -5,6 +5,8 @@
  
  .siteAlert {
     position: relative;
+    font: trebuchet;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     display: block;
     padding: 0.5em 12px 0.5em 12px;
     color: #000000;
