@@ -1,5 +1,6 @@
 # AlertBanner
 Alert Banner
+Visit the gitpages site at https://russell-oit.github.io/AlertBanner/
 
 ## How to use
 * alert.css file contains the styles used by the banner
